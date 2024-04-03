@@ -5,7 +5,7 @@ body {
 
 
 .section-1 {
-    background-color: #4027e2;
+    background-color: #4027dd;
     display: flex;
     flex-direction: row;
     padding-bottom: 215px;
@@ -85,7 +85,7 @@ input[value="Try 5 Free Sessions"] {
 }
 
 .section-2 {
-  background-color: #4027e2;
+  background-color: #4027dd;
   color: #FFFFFF;
   margin: 0px;
   padding-bottom: 10px;
